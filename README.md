@@ -29,7 +29,7 @@
 
 # 📖 Hello React <a name="about-project"></a>
 
-> react as full stack
+> react as full stack, front end repo os [here](https://github.com/binhussen/hello-rails-front). 
 
 ## 🛠 Built With <a name="built-with"></a>
 
